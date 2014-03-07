@@ -1,0 +1,58 @@
+@charset "utf-8";
+* {
+     font-family: 'メイリオ',Meiryo,'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','ＭＳ Ｐゴシック',sans-serif;
+     font-size:98%;
+}
+
+.width_full {
+    width: 100%;
+}
+
+
+h3 {
+padding: 0px 0px 0px 10px;
+margin-bottom: 0px;
+font-size: 130%;
+font-weight: bold;
+color: #FFF;
+background-color: #ff9501;
+}
+
+#go_navibox { 
+background: url(../img/go_navi_bg.gif);
+}
+
+div.sub_title{
+padding: 5px 0px 0px 10px;
+color: #000;
+background-color: #ffcc33;
+}
+
+div.q_title{
+padding: 5px 0px 0px 10px;
+color: #000;
+background-color: #ffcc33;
+margin: 5px 0px 0px 0px;
+}
+div.q_sub{
+color: #000;
+background-color: #ffff99;
+padding: 0px 0px 0px 10px;
+}
+div.q_ans{
+color: #000;
+background-color: #ffffff;
+padding: 0px 0px 0px 10px;
+}
+span.result{
+color: #000;
+background-color: #ffff99;
+padding: 0px 10px 0px 10px;
+font-weight: bold;
+}
+span.result-ex{
+color: #000;
+background-color: #ccccff;
+padding: 0px 10px 0px 10px;
+font-weight: bold;
+}

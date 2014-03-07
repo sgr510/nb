@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+pre.mail-example{
+    font-family: 'メイリオ',Meiryo,'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','ＭＳ Ｐゴシック',sans-serif;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin: 0;
+    line-height: 0.8em;
+    background-color: #F6F6F6;
+    border: 1px solid #CCCCCC;
+    padding: 10px;
+    color: #000000;
+}
+
+div.landing-page-body{
+    background-color:#f3f0e1;
+    margin-bottom:50px;
+}
+
+div.landing-page-t1{
+    margin: 5px;
+    padding: 10px;
+    line-height: 1.5em;
+}
+img.landing-page-title{
+    margin:20px 0px 20px 0px;
+}

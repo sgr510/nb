@@ -1,0 +1,130 @@
+<h2>金融 - 地方銀行</h2>
+<section><!-- Case1 -->
+<hr/>
+<div class="row-fluid mt20 mb10">
+
+
+<h3 class="rank1"> Sランク 偏差値70～ </h3>
+<div class="company"><span class="no-company">該当企業ありません</span></div>
+<h3 class="rank2"> Aランク 偏差値65～69 </h3>
+<div class="company"><span class="no-company">該当企業ありません</span></div>
+<h3 class="rank3"> Bランク 偏差値60～64 </h3>
+<div class="company">横浜</div>
+<div class="company">千葉</div>
+<div class="company">静岡</div>
+<div class="company">京都</div>
+<div class="company">八十二</div>
+<div class="company">常陽</div>
+<div class="company">福岡</div>
+<div class="company">七十七</div>
+<div class="company">群馬</div>
+<div class="company">広島</div>
+<h3 class="rank4"> Cランク 偏差値55～59 </h3>
+<div class="company">中国</div>
+<div class="company">伊予</div>
+<div class="company">山口</div>
+<div class="company">山陰合同</div>
+<div class="company">北洋</div>
+<div class="company">百十四</div>
+<div class="company">滋賀</div>
+<div class="company">百後</div>
+<div class="company">鹿児島</div>
+<div class="company">阿波</div>
+<div class="company">岩手</div>
+<div class="company">第四</div>
+<div class="company">スルガ</div>
+<div class="company">東京都民</div>
+<div class="company">東京スター</div>
+<div class="company">十六</div>
+<div class="company">北國</div>
+<div class="company">南都</div>
+<div class="company">秋田</div>
+<div class="company">山梨中央</div>
+<div class="company">大垣共済</div>
+<div class="company">十八</div>
+<div class="company">大分</div>
+<div class="company">名古屋</div>
+<div class="company">肥後</div>
+<div class="company">山形</div>
+<div class="company">北陸</div>
+<div class="company">武蔵野</div>
+<div class="company">京葉</div>
+<div class="company">富山第一</div>
+<div class="company">香川</div>
+<div class="company">徳島</div>
+<div class="company">東邦</div>
+<div class="company">栃木</div>
+<div class="company">愛知</div>
+<h3 class="rank5"> Dランク 偏差値50～54 </h3>
+<div class="company">北海道</div>
+<div class="company">福井</div>
+<div class="company">西日本シティ</div>
+<div class="company">佐賀</div>
+<div class="company">中京</div>
+<div class="company">四国</div>
+<div class="company">紀陽</div>
+<div class="company">沖縄</div>
+<div class="company">札幌</div>
+<div class="company">愛媛</div>
+<div class="company">池田</div>
+<div class="company">青森</div>
+<div class="company">三重</div>
+<div class="company">但馬 宮崎</div>
+<div class="company">静岡中央</div>
+<div class="company">関西アーバン</div>
+<div class="company">大光</div>
+<div class="company">神奈川</div>
+<div class="company">みちのく</div>
+<div class="company">泉州</div>
+<div class="company">琉球</div>
+<div class="company">北日本</div>
+<div class="company">第三</div>
+<div class="company">大正</div>
+<div class="company">みなと</div>
+<div class="company">庄内</div>
+<div class="company">清水</div>
+<div class="company">富山</div>
+<div class="company">鳥取</div>
+<div class="company">筑邦</div>
+<div class="company">長野</div>
+<div class="company">高知</div>
+<div class="company">福邦</div>
+<div class="company">豊和</div>
+<div class="company">沖縄海邦</div>
+<h3 class="rank6"> Eランク 偏差値45～49 </h3>
+<div class="company">北越</div>
+<div class="company">トマト</div>
+<div class="company">西京</div>
+<div class="company">福岡中央</div>
+<div class="company">南日本</div>
+<div class="company">千葉工業</div>
+<div class="company">山形しあわせ</div>
+<div class="company">東和</div>
+<div class="company">八千代</div>
+<div class="company">東日本</div>
+<div class="company">熊本ファミリー</div>
+<div class="company">宮崎太陽</div>
+<div class="company">東北</div>
+<div class="company">北都</div>
+<div class="company">大東</div>
+<div class="company">和歌山</div>
+<div class="company">島根</div>
+<div class="company">もみじ</div>
+<div class="company">関東つくば</div>
+<div class="company">仙台</div>
+<div class="company">殖産</div>
+<div class="company">岐阜</div>
+<div class="company">びわこ</div>
+<div class="company">佐賀共栄</div>
+<div class="company">福島</div>
+<div class="company">長崎</div>
+<h3 class="rank7"> Fランク 偏差値40～44 </h3>
+<div class="company">茨城</div>
+<div class="company">親和</div>
+<div class="company">足利</div>
+<div class="company">近畿大阪</div>
+
+
+</div>
+</section><!-- /Case1 -->
+

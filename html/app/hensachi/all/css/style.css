@@ -1,0 +1,69 @@
+.company{
+    margin-left:20px;
+}
+
+.rank1{
+margin-top:0px;
+margin-bottom:10px;
+background-color:#88F;
+padding:5px 0px 5px 10px;
+}
+.rank2{
+margin-top:20px;
+margin-bottom:10px;
+background-color:#99F;
+padding:5px 0px 5px 10px;
+}
+.rank3{
+margin-top:20px;
+margin-bottom:10px;
+background-color:#AAF;
+padding:5px 0px 5px 10px;
+}
+.rank4{
+margin-top:20px;
+margin-bottom:10px;
+background-color:#BBF;
+padding:5px 0px 5px 10px;
+}
+.rank5{
+margin-top:20px;
+margin-bottom:10px;
+background-color:#CCF;
+padding:5px 0px 5px 10px;
+}
+.rank6{
+margin-top:20px;
+margin-bottom:10px;
+background-color:#DDF;
+padding:5px 0px 5px 10px;
+}
+.rank7{
+margin-top:20px;
+margin-bottom:10px;
+background-color:#EEF;
+padding:5px 0px 5px 10px;
+}
+.no-company{
+color:#CCC;
+}
+
+
+h3.title {
+padding: 0px 0px 0px 10px;
+margin-bottom: 0px;
+font-size: 130%;
+font-weight: bold;
+color: #FFF;
+background-color: #ff9501;
+}
+
+div.comment-sub-title{
+padding: 5px 0px 0px 10px;
+color: #000;
+background-color: #ffcc33;
+margin-bottom: 10px;
+}
+
+
+

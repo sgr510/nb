@@ -1,0 +1,1 @@
+<img src="http://naitei-bank.jp/user_data/packages/simple/img/banner/bnr_campaign_20140105_2480y.jpg">

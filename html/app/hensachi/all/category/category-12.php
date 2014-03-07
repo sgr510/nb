@@ -1,0 +1,119 @@
+<h2>マスコミ - マスコミ</h2>
+<section><!-- Case1 -->
+<hr/>
+<div class="row-fluid mt20 mb10">
+
+
+<h3 class="rank1"> Sランク 偏差値70～ </h3>
+<div class="company">フジテレビ</div>
+<div class="company">日本テレビ</div>
+<div class="company">電通</div>
+<div class="company">朝日新聞</div>
+<div class="company">TBS</div>
+<div class="company">読売新聞</div>
+<div class="company">日経新聞</div>
+<div class="company">講談社</div>
+<div class="company">テレビ朝日</div>
+<div class="company">小学館</div>
+<div class="company">博報堂</div>
+<div class="company">関西テレビ</div>
+<h3 class="rank2"> Aランク 偏差値65～69 </h3>
+<div class="company">NHK（記者）</div>
+<div class="company">集英社</div>
+<div class="company">テレ東</div>
+<div class="company">讀賣テレビ</div>
+<div class="company">共同通信</div>
+<div class="company">朝日放送</div>
+<div class="company">文芸春秋</div>
+<div class="company">新潮社</div>
+<div class="company">毎日放送</div>
+<div class="company">東海テレビ</div>
+<div class="company">CBC</div>
+<div class="company">マガジンハウス</div>
+<div class="company">日経BP</div>
+<div class="company">中京テレビ</div>
+<div class="company">毎日新聞</div>
+<div class="company">テレビ大阪</div>
+<div class="company">中日新聞</div>
+<div class="company">角川書店</div>
+<div class="company">アシェット婦人画報社</div>
+<div class="company">北海道新聞</div>
+<div class="company">名古屋テレビ</div>
+<div class="company">産経新聞</div>
+<div class="company">光文社</div>
+<div class="company">時事通信</div>
+<div class="company">日刊スポーツ新聞</div>
+<div class="company">東洋経済新報社</div>
+<div class="company">ADK</div>
+<div class="company">西日本新聞</div>
+<div class="company">リクルート</div>
+<div class="company">東京スポーツ新聞</div>
+<h3 class="rank3"> Bランク 偏差値60～64 </h3>
+<div class="company">スポーツニッポン新聞</div>
+<div class="company">報知新聞</div>
+<div class="company">共同テレビ</div>
+<div class="company">東宝</div>
+<div class="company">神戸新聞</div>
+<div class="company">河北新報</div>
+<div class="company">テレビ愛知</div>
+<div class="company">松竹</div>
+<div class="company">東急エージェンシー</div>
+<div class="company">ジャパンタイムズ</div>
+<div class="company">東映</div>
+<div class="company">大広</div>
+<div class="company">信濃毎日</div>
+<div class="company">読売広告社</div>
+<div class="company">電通テック</div>
+<div class="company">宝島社</div>
+<div class="company">双葉社</div>
+<div class="company">中国新聞</div>
+<div class="company">主婦の友社</div>
+<div class="company">ギャガ</div>
+<div class="company">ダイアモンド社</div>
+<div class="company">静岡新聞</div>
+<div class="company">主婦と生活社</div>
+<div class="company">テレビマンユニオン</div>
+<div class="company">徳島新聞</div>
+<div class="company">テレビ朝日映像</div>
+<div class="company">泉包装制作</div>
+<div class="company">東北新社</div>
+<h3 class="rank4"> Cランク 偏差値55～59 </h3>
+<div class="company">札幌テレビ</div>
+<div class="company">JR東企画</div>
+<div class="company">TBSビジョン</div>
+<div class="company">吉本興業</div>
+<div class="company">イースト</div>
+<div class="company">熊本日日新聞</div>
+<div class="company">ホリプロ</div>
+<div class="company">千葉日報</div>
+<div class="company">瀬戸内海包装</div>
+<div class="company">渡辺プロダクション</div>
+<div class="company">テレビ岩手</div>
+<div class="company">オフィス・トゥー・ワン</div>
+<div class="company">四国新聞</div>
+<div class="company">東奥日報</div>
+<div class="company">太田プロダクション</div>
+<div class="company">埼玉新聞</div>
+<div class="company">大映テレビ</div>
+<div class="company">青森放送</div>
+<div class="company">茨城新聞</div>
+<h3 class="rank5"> Dランク 偏差値50～54 </h3>
+<div class="company">琉球新報</div>
+<div class="company">秋田魁新報</div>
+<div class="company">高知新聞</div>
+<div class="company">下野新聞</div>
+<div class="company">福島民報</div>
+<div class="company">愛媛新聞</div>
+<div class="company">室蘭民報</div>
+<div class="company">松竹芸能</div>
+<div class="company">日本農業新聞</div>
+<div class="company">上毛新聞</div>
+<div class="company">日刊工業新聞</div>
+<h3 class="rank6"> Eランク 偏差値45～49 </h3>
+<div class="company"><span class="no-company">該当企業ありません</span></div>
+<h3 class="rank7"> Fランク 偏差値40～44 </h3>
+<div class="company"><span class="no-company">該当企業ありません</span></div>
+
+</div>
+</section><!-- /Case1 -->
+

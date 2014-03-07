@@ -1,0 +1,411 @@
+2013/12/03 19:27:54 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/03 19:27:54 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/03 19:27:54 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/03 19:27:54 [/upgrade/index.php] * error! code:2005 / debug:N; from 121.2.76.144
+2013/12/03 19:27:54 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/03 19:29:20 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/03 19:29:20 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/03 19:29:20 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/03 19:29:20 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/03 19:29:21 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/03 19:29:21 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/03 19:29:21 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/03 19:29:21 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/03 19:29:21 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/03 19:29:21 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/03 19:29:26 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/03 19:29:26 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/03 19:29:26 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/03 19:29:26 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/03 19:29:27 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/03 19:29:27 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/03 19:29:27 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/03 19:29:27 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/03 19:29:27 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/03 19:29:27 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/03 19:29:38 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/03 19:29:38 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/03 19:29:38 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/03 19:29:38 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/03 19:29:39 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/03 19:29:39 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/03 19:29:39 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/03 19:29:39 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/03 19:29:39 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/03 19:29:39 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/04 14:30:27 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/04 14:30:27 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/04 14:30:27 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/04 14:30:27 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/04 14:30:28 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/04 14:30:28 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/04 14:30:28 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/04 14:30:28 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/04 14:30:28 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/04 14:30:28 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/04 14:31:30 [/upgrade/index.php] ##### download start ##### from 121.2.76.144
+2013/12/04 14:31:30 [/upgrade/index.php] * auth start from 121.2.76.144
+2013/12/04 14:31:30 [/upgrade/index.php] * admin login ok from 121.2.76.144
+2013/12/04 14:31:30 [/upgrade/index.php] * post param check start from 121.2.76.144
+2013/12/04 14:31:30 [/upgrade/index.php] * auto update check start from 121.2.76.144
+2013/12/04 14:31:30 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/04 14:31:30 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * json data check start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * save file start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * open 1386135091.tar.gz start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * mkdir /var/www/html/naitei-bank/html/../data/downloads/tmp/1386135091 start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * extract /var/www/html/naitei-bank/html/../data/downloads/tmp/1386135091.tar.gz start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * copy batch start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * copy batch check start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * insert dtb_module_update start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * insert/update dtb_module start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * file execute start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * notify to lockon server start from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] * dl commit result:O:12:"HTTP_Request":26:{s:4:"_url";O:7:"Net_URL":13:{s:7:"options";a:1:{s:17:"encode_query_keys";b:0;}s:3:"url";s:40:"http://www.ec-cube.net/upgrade/index.php";s:8:"protocol";s:4:"http";s:8:"username";N;s:8:"password";N;s:4:"host";s:15:"www.ec-cube.net";s:4:"port";i:80;s:4:"path";s:18:"/upgrade/index.php";s:11:"querystring";a:0:{}s:6:"anchor";s:0:"";s:11:"useBrackets";b:1;s:4:"user";s:0:"";s:4:"pass";s:0:"";}s:7:"_method";s:4:"POST";s:5:"_http";s:3:"1.1";s:15:"_requestHeaders";a:6:{s:10:"user-agent";s:48:"PEAR HTTP_Request class ( http://pear.php.net/ )";s:10:"connection";s:5:"close";s:15:"accept-encoding";s:4:"gzip";s:4:"host";s:15:"www.ec-cube.net";s:6:"cookie";s:36:"PHPSESSID=sl3ufupl8lklj3ln69p1ticsj4";s:12:"content-type";s:33:"application/x-www-form-urlencoded";}s:5:"_user";N;s:5:"_pass";N;s:11:"_proxy_host";N;s:11:"_proxy_port";N;s:11:"_proxy_user";N;s:11:"_proxy_pass";N;s:9:"_postData";a:2:{s:4:"mode";s:15:"download_commit";s:10:"eccube_url";s:30:"http%3A%2F%2Fnaitei-bank.jp%2F";}s:5:"_body";N;s:15:"_bodyDisallowed";a:1:{i:0;s:5:"TRACE";}s:13:"_bodyRequired";a:2:{i:0;s:4:"POST";i:1;s:3:"PUT";}s:10:"_postFiles";a:0:{}s:8:"_timeout";N;s:9:"_response";O:13:"HTTP_Response":10:{s:5:"_sock";O:10:"Net_Socket":14:{s:2:"fp";N;s:8:"blocking";b:1;s:10:"persistent";b:0;s:4:"addr";s:13:"112.78.219.77";s:4:"port";i:80;s:7:"timeout";b:0;s:10:"lineLength";i:2048;s:7:"newline";s:2:"
+";s:6:"_debug";b:0;s:19:"_default_error_mode";N;s:22:"_default_error_options";N;s:22:"_default_error_handler";s:0:"";s:12:"_error_class";s:10:"PEAR_Error";s:16:"_expected_errors";a:0:{}}s:9:"_protocol";s:8:"HTTP/1.1";s:5:"_code";i:200;s:7:"_reason";s:2:"OK";s:8:"_headers";a:6:{s:4:"date";s:29:"Wed, 04 Dec 2013 05:31:31 GMT";s:6:"server";s:23:"Apache/2.2.15 (Red Hat)";s:12:"x-powered-by";s:9:"PHP/5.3.3";s:14:"content-length";s:2:"55";s:10:"connection";s:5:"close";s:12:"content-type";s:30:"text/javascript; charset=UTF-8";}s:8:"_cookies";a:1:{i:0;a:6:{s:7:"expires";s:29:"Tue, 04-Dec-2012 05:31:30 GMT";s:6:"domain";N;s:4:"path";s:1:"/";s:6:"secure";b:0;s:4:"name";s:9:"PHPSESSID";s:5:"value";s:7:"deleted";}}s:5:"_body";s:55:"{"status":"SUCCESS","errcode":null,"msg":"","data":[]}
+";s:12:"_chunkLength";i:0;s:10:"_listeners";a:0:{}s:7:"_toRead";i:0;}s:15:"_allowRedirects";b:0;s:13:"_maxRedirects";i:3;s:10:"_redirects";i:0;s:12:"_useBrackets";b:1;s:10:"_listeners";R:79;s:9:"_saveBody";b:1;s:12:"_readTimeout";N;s:14:"_socketOptions";N;s:5:"_sock";R:44;} from 121.2.76.144
+2013/12/04 14:31:31 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/04 14:32:36 [/upgrade/index.php] ##### download start ##### from 121.2.76.144
+2013/12/04 14:32:36 [/upgrade/index.php] * auth start from 121.2.76.144
+2013/12/04 14:32:36 [/upgrade/index.php] * admin login ok from 121.2.76.144
+2013/12/04 14:32:36 [/upgrade/index.php] * post param check start from 121.2.76.144
+2013/12/04 14:32:36 [/upgrade/index.php] * auto update check start from 121.2.76.144
+2013/12/04 14:32:36 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/04 14:32:36 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * json data check start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * save file start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * open 1386135157.tar.gz start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * mkdir /var/www/html/naitei-bank/html/../data/downloads/tmp/1386135157 start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * extract /var/www/html/naitei-bank/html/../data/downloads/tmp/1386135157.tar.gz start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * copy batch start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * copy batch check start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * insert dtb_module_update start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * insert/update dtb_module start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * file execute start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * notify to lockon server start from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] * dl commit result:O:12:"HTTP_Request":26:{s:4:"_url";O:7:"Net_URL":13:{s:7:"options";a:1:{s:17:"encode_query_keys";b:0;}s:3:"url";s:40:"http://www.ec-cube.net/upgrade/index.php";s:8:"protocol";s:4:"http";s:8:"username";N;s:8:"password";N;s:4:"host";s:15:"www.ec-cube.net";s:4:"port";i:80;s:4:"path";s:18:"/upgrade/index.php";s:11:"querystring";a:0:{}s:6:"anchor";s:0:"";s:11:"useBrackets";b:1;s:4:"user";s:0:"";s:4:"pass";s:0:"";}s:7:"_method";s:4:"POST";s:5:"_http";s:3:"1.1";s:15:"_requestHeaders";a:6:{s:10:"user-agent";s:48:"PEAR HTTP_Request class ( http://pear.php.net/ )";s:10:"connection";s:5:"close";s:15:"accept-encoding";s:4:"gzip";s:4:"host";s:15:"www.ec-cube.net";s:6:"cookie";s:36:"PHPSESSID=fvgft8m789gtr1ldvpk4e0o1p4";s:12:"content-type";s:33:"application/x-www-form-urlencoded";}s:5:"_user";N;s:5:"_pass";N;s:11:"_proxy_host";N;s:11:"_proxy_port";N;s:11:"_proxy_user";N;s:11:"_proxy_pass";N;s:9:"_postData";a:2:{s:4:"mode";s:15:"download_commit";s:10:"eccube_url";s:30:"http%3A%2F%2Fnaitei-bank.jp%2F";}s:5:"_body";N;s:15:"_bodyDisallowed";a:1:{i:0;s:5:"TRACE";}s:13:"_bodyRequired";a:2:{i:0;s:4:"POST";i:1;s:3:"PUT";}s:10:"_postFiles";a:0:{}s:8:"_timeout";N;s:9:"_response";O:13:"HTTP_Response":10:{s:5:"_sock";O:10:"Net_Socket":14:{s:2:"fp";N;s:8:"blocking";b:1;s:10:"persistent";b:0;s:4:"addr";s:13:"112.78.219.77";s:4:"port";i:80;s:7:"timeout";b:0;s:10:"lineLength";i:2048;s:7:"newline";s:2:"
+";s:6:"_debug";b:0;s:19:"_default_error_mode";N;s:22:"_default_error_options";N;s:22:"_default_error_handler";s:0:"";s:12:"_error_class";s:10:"PEAR_Error";s:16:"_expected_errors";a:0:{}}s:9:"_protocol";s:8:"HTTP/1.1";s:5:"_code";i:200;s:7:"_reason";s:2:"OK";s:8:"_headers";a:6:{s:4:"date";s:29:"Wed, 04 Dec 2013 05:32:37 GMT";s:6:"server";s:23:"Apache/2.2.15 (Red Hat)";s:12:"x-powered-by";s:9:"PHP/5.3.3";s:14:"content-length";s:2:"55";s:10:"connection";s:5:"close";s:12:"content-type";s:30:"text/javascript; charset=UTF-8";}s:8:"_cookies";a:1:{i:0;a:6:{s:7:"expires";s:29:"Tue, 04-Dec-2012 05:32:36 GMT";s:6:"domain";N;s:4:"path";s:1:"/";s:6:"secure";b:0;s:4:"name";s:9:"PHPSESSID";s:5:"value";s:7:"deleted";}}s:5:"_body";s:55:"{"status":"SUCCESS","errcode":null,"msg":"","data":[]}
+";s:12:"_chunkLength";i:0;s:10:"_listeners";a:0:{}s:7:"_toRead";i:0;}s:15:"_allowRedirects";b:0;s:13:"_maxRedirects";i:3;s:10:"_redirects";i:0;s:12:"_useBrackets";b:1;s:10:"_listeners";R:79;s:9:"_saveBody";b:1;s:12:"_readTimeout";N;s:14:"_socketOptions";N;s:5:"_sock";R:44;} from 121.2.76.144
+2013/12/04 14:32:37 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/04 16:22:34 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/04 16:22:34 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/04 16:22:34 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/04 16:22:34 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/04 16:22:36 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/04 16:22:36 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/04 16:22:36 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/04 16:22:36 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/04 16:22:36 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/04 16:22:36 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/09 20:11:43 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/09 20:11:43 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/09 20:11:43 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/09 20:11:43 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/09 20:11:44 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/09 20:11:44 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/09 20:11:44 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/09 20:11:44 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/09 20:11:44 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/09 20:11:44 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/09 20:12:08 [/upgrade/index.php] ##### download start ##### from 121.2.76.144
+2013/12/09 20:12:08 [/upgrade/index.php] * auth start from 121.2.76.144
+2013/12/09 20:12:08 [/upgrade/index.php] * admin login ok from 121.2.76.144
+2013/12/09 20:12:08 [/upgrade/index.php] * post param check start from 121.2.76.144
+2013/12/09 20:12:08 [/upgrade/index.php] * auto update check start from 121.2.76.144
+2013/12/09 20:12:08 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/09 20:12:08 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * json data check start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * save file start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * open 1386587529.tar.gz start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * mkdir /var/www/html/naitei-bank/html/../data/downloads/tmp/1386587529 start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * extract /var/www/html/naitei-bank/html/../data/downloads/tmp/1386587529.tar.gz start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * copy batch start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * copy batch check start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * insert dtb_module_update start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * insert/update dtb_module start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * file execute start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * notify to lockon server start from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] * dl commit result:O:12:"HTTP_Request":26:{s:4:"_url";O:7:"Net_URL":13:{s:7:"options";a:1:{s:17:"encode_query_keys";b:0;}s:3:"url";s:40:"http://www.ec-cube.net/upgrade/index.php";s:8:"protocol";s:4:"http";s:8:"username";N;s:8:"password";N;s:4:"host";s:15:"www.ec-cube.net";s:4:"port";i:80;s:4:"path";s:18:"/upgrade/index.php";s:11:"querystring";a:0:{}s:6:"anchor";s:0:"";s:11:"useBrackets";b:1;s:4:"user";s:0:"";s:4:"pass";s:0:"";}s:7:"_method";s:4:"POST";s:5:"_http";s:3:"1.1";s:15:"_requestHeaders";a:6:{s:10:"user-agent";s:48:"PEAR HTTP_Request class ( http://pear.php.net/ )";s:10:"connection";s:5:"close";s:15:"accept-encoding";s:4:"gzip";s:4:"host";s:15:"www.ec-cube.net";s:6:"cookie";s:36:"PHPSESSID=kgr4uclbu1cc0mslbl7skpfln7";s:12:"content-type";s:33:"application/x-www-form-urlencoded";}s:5:"_user";N;s:5:"_pass";N;s:11:"_proxy_host";N;s:11:"_proxy_port";N;s:11:"_proxy_user";N;s:11:"_proxy_pass";N;s:9:"_postData";a:2:{s:4:"mode";s:15:"download_commit";s:10:"eccube_url";s:30:"http%3A%2F%2Fnaitei-bank.jp%2F";}s:5:"_body";N;s:15:"_bodyDisallowed";a:1:{i:0;s:5:"TRACE";}s:13:"_bodyRequired";a:2:{i:0;s:4:"POST";i:1;s:3:"PUT";}s:10:"_postFiles";a:0:{}s:8:"_timeout";N;s:9:"_response";O:13:"HTTP_Response":10:{s:5:"_sock";O:10:"Net_Socket":14:{s:2:"fp";N;s:8:"blocking";b:1;s:10:"persistent";b:0;s:4:"addr";s:13:"112.78.219.77";s:4:"port";i:80;s:7:"timeout";b:0;s:10:"lineLength";i:2048;s:7:"newline";s:2:"
+";s:6:"_debug";b:0;s:19:"_default_error_mode";N;s:22:"_default_error_options";N;s:22:"_default_error_handler";s:0:"";s:12:"_error_class";s:10:"PEAR_Error";s:16:"_expected_errors";a:0:{}}s:9:"_protocol";s:8:"HTTP/1.1";s:5:"_code";i:200;s:7:"_reason";s:2:"OK";s:8:"_headers";a:6:{s:4:"date";s:29:"Mon, 09 Dec 2013 11:12:09 GMT";s:6:"server";s:23:"Apache/2.2.15 (Red Hat)";s:12:"x-powered-by";s:9:"PHP/5.3.3";s:14:"content-length";s:2:"55";s:10:"connection";s:5:"close";s:12:"content-type";s:30:"text/javascript; charset=UTF-8";}s:8:"_cookies";a:1:{i:0;a:6:{s:7:"expires";s:29:"Sun, 09-Dec-2012 11:12:08 GMT";s:6:"domain";N;s:4:"path";s:1:"/";s:6:"secure";b:0;s:4:"name";s:9:"PHPSESSID";s:5:"value";s:7:"deleted";}}s:5:"_body";s:55:"{"status":"SUCCESS","errcode":null,"msg":"","data":[]}
+";s:12:"_chunkLength";i:0;s:10:"_listeners";a:0:{}s:7:"_toRead";i:0;}s:15:"_allowRedirects";b:0;s:13:"_maxRedirects";i:3;s:10:"_redirects";i:0;s:12:"_useBrackets";b:1;s:10:"_listeners";R:79;s:9:"_saveBody";b:1;s:12:"_readTimeout";N;s:14:"_socketOptions";N;s:5:"_sock";R:44;} from 121.2.76.144
+2013/12/09 20:12:09 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/09 20:12:13 [/upgrade/index.php] ##### download start ##### from 121.2.76.144
+2013/12/09 20:12:13 [/upgrade/index.php] * auth start from 121.2.76.144
+2013/12/09 20:12:13 [/upgrade/index.php] * admin login ok from 121.2.76.144
+2013/12/09 20:12:13 [/upgrade/index.php] * post param check start from 121.2.76.144
+2013/12/09 20:12:13 [/upgrade/index.php] * auto update check start from 121.2.76.144
+2013/12/09 20:12:13 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/09 20:12:13 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * json data check start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * save file start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * open 1386587535.tar.gz start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * mkdir /var/www/html/naitei-bank/html/../data/downloads/tmp/1386587535 start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * extract /var/www/html/naitei-bank/html/../data/downloads/tmp/1386587535.tar.gz start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * copy batch start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * copy batch check start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * insert dtb_module_update start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * insert/update dtb_module start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * file execute start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * notify to lockon server start from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] * dl commit result:O:12:"HTTP_Request":26:{s:4:"_url";O:7:"Net_URL":13:{s:7:"options";a:1:{s:17:"encode_query_keys";b:0;}s:3:"url";s:40:"http://www.ec-cube.net/upgrade/index.php";s:8:"protocol";s:4:"http";s:8:"username";N;s:8:"password";N;s:4:"host";s:15:"www.ec-cube.net";s:4:"port";i:80;s:4:"path";s:18:"/upgrade/index.php";s:11:"querystring";a:0:{}s:6:"anchor";s:0:"";s:11:"useBrackets";b:1;s:4:"user";s:0:"";s:4:"pass";s:0:"";}s:7:"_method";s:4:"POST";s:5:"_http";s:3:"1.1";s:15:"_requestHeaders";a:6:{s:10:"user-agent";s:48:"PEAR HTTP_Request class ( http://pear.php.net/ )";s:10:"connection";s:5:"close";s:15:"accept-encoding";s:4:"gzip";s:4:"host";s:15:"www.ec-cube.net";s:6:"cookie";s:36:"PHPSESSID=mkamec6so8i5hhqpla4pvlhot1";s:12:"content-type";s:33:"application/x-www-form-urlencoded";}s:5:"_user";N;s:5:"_pass";N;s:11:"_proxy_host";N;s:11:"_proxy_port";N;s:11:"_proxy_user";N;s:11:"_proxy_pass";N;s:9:"_postData";a:2:{s:4:"mode";s:15:"download_commit";s:10:"eccube_url";s:30:"http%3A%2F%2Fnaitei-bank.jp%2F";}s:5:"_body";N;s:15:"_bodyDisallowed";a:1:{i:0;s:5:"TRACE";}s:13:"_bodyRequired";a:2:{i:0;s:4:"POST";i:1;s:3:"PUT";}s:10:"_postFiles";a:0:{}s:8:"_timeout";N;s:9:"_response";O:13:"HTTP_Response":10:{s:5:"_sock";O:10:"Net_Socket":14:{s:2:"fp";N;s:8:"blocking";b:1;s:10:"persistent";b:0;s:4:"addr";s:13:"112.78.219.77";s:4:"port";i:80;s:7:"timeout";b:0;s:10:"lineLength";i:2048;s:7:"newline";s:2:"
+";s:6:"_debug";b:0;s:19:"_default_error_mode";N;s:22:"_default_error_options";N;s:22:"_default_error_handler";s:0:"";s:12:"_error_class";s:10:"PEAR_Error";s:16:"_expected_errors";a:0:{}}s:9:"_protocol";s:8:"HTTP/1.1";s:5:"_code";i:200;s:7:"_reason";s:2:"OK";s:8:"_headers";a:6:{s:4:"date";s:29:"Mon, 09 Dec 2013 11:12:15 GMT";s:6:"server";s:23:"Apache/2.2.15 (Red Hat)";s:12:"x-powered-by";s:9:"PHP/5.3.3";s:14:"content-length";s:2:"55";s:10:"connection";s:5:"close";s:12:"content-type";s:30:"text/javascript; charset=UTF-8";}s:8:"_cookies";a:1:{i:0;a:6:{s:7:"expires";s:29:"Sun, 09-Dec-2012 11:12:14 GMT";s:6:"domain";N;s:4:"path";s:1:"/";s:6:"secure";b:0;s:4:"name";s:9:"PHPSESSID";s:5:"value";s:7:"deleted";}}s:5:"_body";s:55:"{"status":"SUCCESS","errcode":null,"msg":"","data":[]}
+";s:12:"_chunkLength";i:0;s:10:"_listeners";a:0:{}s:7:"_toRead";i:0;}s:15:"_allowRedirects";b:0;s:13:"_maxRedirects";i:3;s:10:"_redirects";i:0;s:12:"_useBrackets";b:1;s:10:"_listeners";R:79;s:9:"_saveBody";b:1;s:12:"_readTimeout";N;s:14:"_socketOptions";N;s:5:"_sock";R:44;} from 121.2.76.144
+2013/12/09 20:12:15 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/10 22:42:21 [/upgrade/index.php] ##### products_list start ##### from 114.160.71.150
+2013/12/10 22:42:21 [/upgrade/index.php] * admin auth start from 114.160.71.150
+2013/12/10 22:42:21 [/upgrade/index.php] * public key check start from 114.160.71.150
+2013/12/10 22:42:21 [/upgrade/index.php] * http request start from 114.160.71.150
+2013/12/10 22:42:22 [/upgrade/index.php] * http request check start from 114.160.71.150
+2013/12/10 22:42:22 [/upgrade/index.php] * http response check start from 114.160.71.150
+2013/12/10 22:42:22 [/upgrade/index.php] * json deta check start from 114.160.71.150
+2013/12/10 22:42:22 [/upgrade/index.php] * json status check start from 114.160.71.150
+2013/12/10 22:42:22 [/upgrade/index.php] * get products list ok from 114.160.71.150
+2013/12/10 22:42:22 [/upgrade/index.php] ##### end ##### from 114.160.71.150
+2013/12/10 22:52:28 [/upgrade/index.php] ##### products_list start ##### from 114.160.71.150
+2013/12/10 22:52:28 [/upgrade/index.php] * admin auth start from 114.160.71.150
+2013/12/10 22:52:28 [/upgrade/index.php] * public key check start from 114.160.71.150
+2013/12/10 22:52:28 [/upgrade/index.php] * http request start from 114.160.71.150
+2013/12/10 22:52:29 [/upgrade/index.php] * http request check start from 114.160.71.150
+2013/12/10 22:52:29 [/upgrade/index.php] * http response check start from 114.160.71.150
+2013/12/10 22:52:29 [/upgrade/index.php] * json deta check start from 114.160.71.150
+2013/12/10 22:52:29 [/upgrade/index.php] * json status check start from 114.160.71.150
+2013/12/10 22:52:29 [/upgrade/index.php] * get products list ok from 114.160.71.150
+2013/12/10 22:52:29 [/upgrade/index.php] ##### end ##### from 114.160.71.150
+2013/12/10 23:17:53 [/upgrade/index.php] ##### products_list start ##### from 114.160.71.150
+2013/12/10 23:17:53 [/upgrade/index.php] * admin auth start from 114.160.71.150
+2013/12/10 23:17:53 [/upgrade/index.php] * public key check start from 114.160.71.150
+2013/12/10 23:17:53 [/upgrade/index.php] * http request start from 114.160.71.150
+2013/12/10 23:17:54 [/upgrade/index.php] * http request check start from 114.160.71.150
+2013/12/10 23:17:54 [/upgrade/index.php] * http response check start from 114.160.71.150
+2013/12/10 23:17:54 [/upgrade/index.php] * json deta check start from 114.160.71.150
+2013/12/10 23:17:54 [/upgrade/index.php] * json status check start from 114.160.71.150
+2013/12/10 23:17:54 [/upgrade/index.php] * get products list ok from 114.160.71.150
+2013/12/10 23:17:54 [/upgrade/index.php] ##### end ##### from 114.160.71.150
+2013/12/11 00:22:23 [/upgrade/index.php] ##### products_list start ##### from 114.160.71.150
+2013/12/11 00:22:23 [/upgrade/index.php] * admin auth start from 114.160.71.150
+2013/12/11 00:22:23 [/upgrade/index.php] * public key check start from 114.160.71.150
+2013/12/11 00:22:23 [/upgrade/index.php] * http request start from 114.160.71.150
+2013/12/11 00:22:24 [/upgrade/index.php] * http request check start from 114.160.71.150
+2013/12/11 00:22:24 [/upgrade/index.php] * http response check start from 114.160.71.150
+2013/12/11 00:22:24 [/upgrade/index.php] * json deta check start from 114.160.71.150
+2013/12/11 00:22:24 [/upgrade/index.php] * json status check start from 114.160.71.150
+2013/12/11 00:22:24 [/upgrade/index.php] * get products list ok from 114.160.71.150
+2013/12/11 00:22:24 [/upgrade/index.php] ##### end ##### from 114.160.71.150
+2013/12/11 09:36:41 [/upgrade/index.php] ##### products_list start ##### from 114.160.71.150
+2013/12/11 09:36:41 [/upgrade/index.php] * admin auth start from 114.160.71.150
+2013/12/11 09:36:41 [/upgrade/index.php] * public key check start from 114.160.71.150
+2013/12/11 09:36:41 [/upgrade/index.php] * http request start from 114.160.71.150
+2013/12/11 09:36:42 [/upgrade/index.php] * http request check start from 114.160.71.150
+2013/12/11 09:36:42 [/upgrade/index.php] * http response check start from 114.160.71.150
+2013/12/11 09:36:42 [/upgrade/index.php] * json deta check start from 114.160.71.150
+2013/12/11 09:36:42 [/upgrade/index.php] * json status check start from 114.160.71.150
+2013/12/11 09:36:42 [/upgrade/index.php] * get products list ok from 114.160.71.150
+2013/12/11 09:36:42 [/upgrade/index.php] ##### end ##### from 114.160.71.150
+2013/12/11 11:13:11 [/upgrade/index.php] ##### products_list start ##### from 114.160.71.150
+2013/12/11 11:13:11 [/upgrade/index.php] * admin auth start from 114.160.71.150
+2013/12/11 11:13:11 [/upgrade/index.php] * public key check start from 114.160.71.150
+2013/12/11 11:13:11 [/upgrade/index.php] * http request start from 114.160.71.150
+2013/12/11 11:13:12 [/upgrade/index.php] * http request check start from 114.160.71.150
+2013/12/11 11:13:12 [/upgrade/index.php] * http response check start from 114.160.71.150
+2013/12/11 11:13:12 [/upgrade/index.php] * json deta check start from 114.160.71.150
+2013/12/11 11:13:12 [/upgrade/index.php] * json status check start from 114.160.71.150
+2013/12/11 11:13:12 [/upgrade/index.php] * get products list ok from 114.160.71.150
+2013/12/11 11:13:12 [/upgrade/index.php] ##### end ##### from 114.160.71.150
+2013/12/11 15:54:08 [/upgrade/index.php] ##### products_list start ##### from 114.160.71.150
+2013/12/11 15:54:08 [/upgrade/index.php] * admin auth start from 114.160.71.150
+2013/12/11 15:54:08 [/upgrade/index.php] * public key check start from 114.160.71.150
+2013/12/11 15:54:08 [/upgrade/index.php] * http request start from 114.160.71.150
+2013/12/11 15:54:09 [/upgrade/index.php] * http request check start from 114.160.71.150
+2013/12/11 15:54:09 [/upgrade/index.php] * http response check start from 114.160.71.150
+2013/12/11 15:54:09 [/upgrade/index.php] * json deta check start from 114.160.71.150
+2013/12/11 15:54:09 [/upgrade/index.php] * json status check start from 114.160.71.150
+2013/12/11 15:54:09 [/upgrade/index.php] * get products list ok from 114.160.71.150
+2013/12/11 15:54:09 [/upgrade/index.php] ##### end ##### from 114.160.71.150
+2013/12/11 16:10:05 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/11 16:10:05 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/11 16:10:05 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/11 16:10:05 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/11 16:10:07 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/11 16:10:07 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/11 16:10:07 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/11 16:10:07 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/11 16:10:07 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/11 16:10:07 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/11 16:18:45 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/11 16:18:45 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/11 16:18:45 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/11 16:18:45 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/11 16:18:46 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/11 16:18:46 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/11 16:18:46 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/11 16:18:46 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/11 16:18:46 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/11 16:18:46 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/11 16:24:57 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/11 16:24:57 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/11 16:24:57 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/11 16:24:57 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/11 16:24:58 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/11 16:24:58 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/11 16:24:58 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/11 16:24:58 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/11 16:24:58 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/11 16:24:58 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/11 16:33:29 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/11 16:33:29 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/11 16:33:29 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/11 16:33:29 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/11 16:33:31 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/11 16:33:31 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/11 16:33:31 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/11 16:33:31 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/11 16:33:31 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/11 16:33:31 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/11 17:17:13 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/11 17:17:13 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/11 17:17:13 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/11 17:17:13 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/11 17:17:14 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/11 17:17:14 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/11 17:17:14 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/11 17:17:14 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/11 17:17:14 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/11 17:17:14 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/11 17:17:28 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/11 17:17:28 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/11 17:17:28 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/11 17:17:28 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/11 17:17:29 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/11 17:17:29 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/11 17:17:29 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/11 17:17:29 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/11 17:17:29 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/11 17:17:29 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/11 17:17:57 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/11 17:17:57 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/11 17:17:57 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/11 17:17:57 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/11 17:17:58 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/11 17:17:58 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/11 17:17:58 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/11 17:17:58 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/11 17:17:58 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/11 17:17:58 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/11 17:24:44 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/11 17:24:44 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/11 17:24:44 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/11 17:24:44 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/11 17:24:45 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/11 17:24:45 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/11 17:24:45 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/11 17:24:45 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/11 17:24:45 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/11 17:24:45 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/11 17:45:49 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/11 17:45:49 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/11 17:45:49 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/11 17:45:49 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/11 17:45:50 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/11 17:45:50 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/11 17:45:50 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/11 17:45:50 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/11 17:45:50 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/11 17:45:50 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/11 18:25:03 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/11 18:25:03 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/11 18:25:03 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/11 18:25:03 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/11 18:25:04 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/11 18:25:04 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/11 18:25:04 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/11 18:25:04 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/11 18:25:04 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/11 18:25:04 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/11 18:59:32 [/upgrade/index.php] ##### products_list start ##### from 114.160.71.150
+2013/12/11 18:59:32 [/upgrade/index.php] * admin auth start from 114.160.71.150
+2013/12/11 18:59:32 [/upgrade/index.php] * public key check start from 114.160.71.150
+2013/12/11 18:59:32 [/upgrade/index.php] * http request start from 114.160.71.150
+2013/12/11 18:59:33 [/upgrade/index.php] * http request check start from 114.160.71.150
+2013/12/11 18:59:33 [/upgrade/index.php] * http response check start from 114.160.71.150
+2013/12/11 18:59:33 [/upgrade/index.php] * json deta check start from 114.160.71.150
+2013/12/11 18:59:33 [/upgrade/index.php] * json status check start from 114.160.71.150
+2013/12/11 18:59:33 [/upgrade/index.php] * get products list ok from 114.160.71.150
+2013/12/11 18:59:33 [/upgrade/index.php] ##### end ##### from 114.160.71.150
+2013/12/13 00:01:43 [/upgrade/index.php] ##### products_list start ##### from 114.160.71.150
+2013/12/13 00:01:43 [/upgrade/index.php] * admin auth start from 114.160.71.150
+2013/12/13 00:01:43 [/upgrade/index.php] * public key check start from 114.160.71.150
+2013/12/13 00:01:43 [/upgrade/index.php] * http request start from 114.160.71.150
+2013/12/13 00:01:44 [/upgrade/index.php] * http request check start from 114.160.71.150
+2013/12/13 00:01:44 [/upgrade/index.php] * http response check start from 114.160.71.150
+2013/12/13 00:01:44 [/upgrade/index.php] * json deta check start from 114.160.71.150
+2013/12/13 00:01:44 [/upgrade/index.php] * json status check start from 114.160.71.150
+2013/12/13 00:01:44 [/upgrade/index.php] * get products list ok from 114.160.71.150
+2013/12/13 00:01:44 [/upgrade/index.php] ##### end ##### from 114.160.71.150
+2013/12/24 14:23:29 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/24 14:23:29 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/24 14:23:29 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/24 14:23:29 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/24 14:23:30 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/24 14:23:30 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/24 14:23:30 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/24 14:23:30 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/24 14:23:30 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/24 14:23:30 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/25 18:56:03 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2013/12/25 18:56:03 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2013/12/25 18:56:03 [/upgrade/index.php] * public key check start from 121.2.76.144
+2013/12/25 18:56:03 [/upgrade/index.php] * http request start from 121.2.76.144
+2013/12/25 18:56:04 [/upgrade/index.php] * http request check start from 121.2.76.144
+2013/12/25 18:56:04 [/upgrade/index.php] * http response check start from 121.2.76.144
+2013/12/25 18:56:04 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2013/12/25 18:56:04 [/upgrade/index.php] * json status check start from 121.2.76.144
+2013/12/25 18:56:04 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2013/12/25 18:56:04 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2013/12/25 22:29:07 [/upgrade/index.php] ##### products_list start ##### from 114.160.71.150
+2013/12/25 22:29:07 [/upgrade/index.php] * admin auth start from 114.160.71.150
+2013/12/25 22:29:07 [/upgrade/index.php] * public key check start from 114.160.71.150
+2013/12/25 22:29:07 [/upgrade/index.php] * http request start from 114.160.71.150
+2013/12/25 22:29:08 [/upgrade/index.php] * http request check start from 114.160.71.150
+2013/12/25 22:29:08 [/upgrade/index.php] * http response check start from 114.160.71.150
+2013/12/25 22:29:08 [/upgrade/index.php] * json deta check start from 114.160.71.150
+2013/12/25 22:29:08 [/upgrade/index.php] * json status check start from 114.160.71.150
+2013/12/25 22:29:08 [/upgrade/index.php] * get products list ok from 114.160.71.150
+2013/12/25 22:29:08 [/upgrade/index.php] ##### end ##### from 114.160.71.150
+2013/12/28 12:05:19 [/upgrade/index.php] ##### products_list start ##### from 27.94.216.173
+2013/12/28 12:05:19 [/upgrade/index.php] * admin auth start from 27.94.216.173
+2013/12/28 12:05:19 [/upgrade/index.php] * public key check start from 27.94.216.173
+2013/12/28 12:05:19 [/upgrade/index.php] * http request start from 27.94.216.173
+2013/12/28 12:05:20 [/upgrade/index.php] * http request check start from 27.94.216.173
+2013/12/28 12:05:20 [/upgrade/index.php] * http response check start from 27.94.216.173
+2013/12/28 12:05:20 [/upgrade/index.php] * json deta check start from 27.94.216.173
+2013/12/28 12:05:20 [/upgrade/index.php] * json status check start from 27.94.216.173
+2013/12/28 12:05:20 [/upgrade/index.php] * get products list ok from 27.94.216.173
+2013/12/28 12:05:20 [/upgrade/index.php] ##### end ##### from 27.94.216.173
+2014/01/07 18:31:31 [/upgrade/index.php] ##### products_list start ##### from 121.2.76.144
+2014/01/07 18:31:31 [/upgrade/index.php] * admin auth start from 121.2.76.144
+2014/01/07 18:31:31 [/upgrade/index.php] * public key check start from 121.2.76.144
+2014/01/07 18:31:31 [/upgrade/index.php] * http request start from 121.2.76.144
+2014/01/07 18:31:32 [/upgrade/index.php] * http request check start from 121.2.76.144
+2014/01/07 18:31:32 [/upgrade/index.php] * http response check start from 121.2.76.144
+2014/01/07 18:31:32 [/upgrade/index.php] * json deta check start from 121.2.76.144
+2014/01/07 18:31:32 [/upgrade/index.php] * json status check start from 121.2.76.144
+2014/01/07 18:31:32 [/upgrade/index.php] * get products list ok from 121.2.76.144
+2014/01/07 18:31:32 [/upgrade/index.php] ##### end ##### from 121.2.76.144
+2014/01/18 19:58:12 [/upgrade/index.php] ##### products_list start ##### from 114.69.103.245
+2014/01/18 19:58:12 [/upgrade/index.php] * admin auth start from 114.69.103.245
+2014/01/18 19:58:12 [/upgrade/index.php] * public key check start from 114.69.103.245
+2014/01/18 19:58:12 [/upgrade/index.php] * http request start from 114.69.103.245
+2014/01/18 19:58:13 [/upgrade/index.php] * http request check start from 114.69.103.245
+2014/01/18 19:58:13 [/upgrade/index.php] * http response check start from 114.69.103.245
+2014/01/18 19:58:13 [/upgrade/index.php] * json deta check start from 114.69.103.245
+2014/01/18 19:58:13 [/upgrade/index.php] * json status check start from 114.69.103.245
+2014/01/18 19:58:13 [/upgrade/index.php] * get products list ok from 114.69.103.245
+2014/01/18 19:58:13 [/upgrade/index.php] ##### end ##### from 114.69.103.245
